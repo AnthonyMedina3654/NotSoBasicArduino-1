@@ -40,7 +40,7 @@ https://create.arduino.cc/editor/helmstk1/9e044cca-43d7-4d93-885f-e6dec5b4f769/p
 ## Hello_LCD
 
 ### Description & Code
-Description goes here
+I have not finished this, I dont know what to put here.
 
 Here's how you make code look like code:
 
